@@ -4,7 +4,7 @@ import React from "react";
 import colors from "../config/colors";
 
 import Screen from "../components/Screen";
-import ListItem from "../components/ListItem";
+import { ListItem } from "../components/lists";
 import Icon from "../components/Icon";
 
 const AccountScreen = () => {
